@@ -1,0 +1,11 @@
+Data for the word adjacency network.
+
+In keeping with the paper, k[i][s] is the number of edges from node i to group s, and g[i] is the group of node i.
+
+The groups are:
+0: Noun
+1: Verb
+2: Adjective
+
+edges.txt contains k[i][s]
+groups.txt contains g[i]
