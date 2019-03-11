@@ -1,5 +1,5 @@
 # Individual mixing patterns in networks
-Python class for Bayesian analysis of individual mixing in networks.
+Python class for Bayesian analysis of mixing patterns in networks.
 
 The basic usage would be
 ```python
